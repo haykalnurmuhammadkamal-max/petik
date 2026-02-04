@@ -1,3 +1,1 @@
-# petik
-Membuat projek akhir TI
-Proyek ini adalah bagian dari asesmen DevOps saya.
+"PROYEK INI DIEDIT DI MAIN"
