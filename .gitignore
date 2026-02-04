@@ -1,0 +1,7 @@
+# Mengabaikan file log
+*.log
+
+# Mengabaikan folder environment/secret (Sangat penting!)
+.env
+dist/
+bin/
