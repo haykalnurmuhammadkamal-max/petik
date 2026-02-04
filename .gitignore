@@ -1,7 +1,5 @@
-# Mengabaikan file log
+# File yang tidak boleh masuk ke GitHub
+node_modules/
 *.log
-
-# Mengabaikan folder environment/secret (Sangat penting!)
 .env
-dist/
-bin/
+.DS_Store
